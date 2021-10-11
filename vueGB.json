@@ -1,17 +1,17 @@
  
 {
   "page1": [
-	{ "id": 1, "date": "2021-08-01", "category": "Food", "value": 169 },
-	{ "id": 2, "date": "2021-08-20", "category": "Navigation", "value": 50 },
-	{ "id": 3, "date": "2021-08-29", "category": "Sport", "value": 450 }
+	{ "id": 1, "date": "2021-08-01", "category": "food", "value": 169 },
+	{ "id": 2, "date": "2021-08-20", "category": "cosmetics", "value": 50 },
+	{ "id": 3, "date": "2021-08-29", "category": "fuel", "value": 450 }
   ],
   "page2": [
-	{ "id": 4, "date": "2021-09-07", "category": "Entertaiment", "value": 969 },
-	{ "id": 5, "date": "2021-09-17", "category": "Education", "value": 1500 },
-	{ "id": 6, "date": "2021-10-09", "category": "Food", "value": 200 }
+	{ "id": 4, "date": "2021-09-07", "category": "fuel", "value": 969 },
+	{ "id": 5, "date": "2021-09-17", "category": "cosmetics", "value": 1500 },
+	{ "id": 6, "date": "2021-10-09", "category": "food", "value": 200 }
   ],
    "page3": [
-	{ "id": 7, "date": "2021-10-08", "category": "Entertaiment", "value": 569 }
+	{ "id": 7, "date": "2021-10-08", "category": "pharmacy", "value": 569 }
   ]
 } 
 
