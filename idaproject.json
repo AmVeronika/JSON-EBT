@@ -1,3 +1,114 @@
 [
-
+  {
+  "id": 0,
+  "name": "Наименование товара",
+  "description": "Довольно-таки интересное описание товара в несколько строк. Довольно-таки интересное описание товара в несколько строк",
+  "price": 10000,
+  "urlImg": "https://raw.githubusercontent.com/AmVeronika/JSON-EBT/master/photo-good.jpg"
+  },
+  {
+  "id": 1,
+  "name": "Фотоаппарат мыльница",
+  "description": "Довольно-таки интересное описание товара в несколько строк. Довольно-таки интересное описание товара в несколько строк",
+  "price": 13200,
+  "urlImg": "https://raw.githubusercontent.com/AmVeronika/JSON-EBT/master/photo-good.jpg"
+  },
+  {
+  "id": 2,
+  "name": "Фотоаппарат беззеркальный",
+  "description": "Довольно-таки интересное описание товара в несколько строк. Довольно-таки интересное описание товара в несколько строк",
+  "price": 33600,
+  "urlImg": "https://raw.githubusercontent.com/AmVeronika/JSON-EBT/master/photo-good.jpg"
+  },
+  {
+  "id": 3,
+  "name": "Фотоаппарат цифровой",
+  "description": "Довольно-таки интересное описание товара в несколько строк. Довольно-таки интересное описание товара в несколько строк",
+  "price": 28650,
+  "urlImg": "https://raw.githubusercontent.com/AmVeronika/JSON-EBT/master/photo-good.jpg"
+  },
+  {
+  "id": 4,
+  "name": "Фотоаппарат цифровой дальномерный",
+  "description": "Довольно-таки интересное описание товара в несколько строк. Довольно-таки интересное описание товара в несколько строк",
+  "price": 38670,
+  "urlImg": "https://raw.githubusercontent.com/AmVeronika/JSON-EBT/master/photo-good.jpg"
+  },
+  {
+  "id": 5,
+  "name": "Фотоаппарат polaroid",
+  "description": "Довольно-таки интересное описание товара в несколько строк. Довольно-таки интересное описание товара в несколько строк",
+  "price": 6590,
+  "urlImg": "https://raw.githubusercontent.com/AmVeronika/JSON-EBT/master/photo-good.jpg"
+  },
+  {
+  "id": 6,
+  "name": "Фотоаппарат instax",
+  "description": "Довольно-таки интересное описание товара в несколько строк. Довольно-таки интересное описание товара в несколько строк",
+  "price": 6480,
+  "urlImg": "https://raw.githubusercontent.com/AmVeronika/JSON-EBT/master/photo-good.jpg"
+  },
+  {
+  "id": 7,
+  "name": "Фотокамера ультразум",
+  "description": "Довольно-таки интересное описание товара в несколько строк. Довольно-таки интересное описание товара в несколько строк",
+  "price": 20000,
+  "urlImg": "https://raw.githubusercontent.com/AmVeronika/JSON-EBT/master/photo-good.jpg"
+  },
+  {
+  "id": 8,
+  "name": "Наименование товара",
+  "description": "Довольно-таки интересное описание товара в несколько строк. Довольно-таки интересное описание товара в несколько строк",
+  "price": 11000,
+  "urlImg": "https://raw.githubusercontent.com/AmVeronika/JSON-EBT/master/photo-good.jpg"
+  },
+    {
+  "id": 9,
+  "name": "Фотокамера ультразум",
+  "description": "Довольно-таки интересное описание товара в несколько строк. Довольно-таки интересное описание товара в несколько строк",
+  "price": 25650,
+  "urlImg": "https://raw.githubusercontent.com/AmVeronika/JSON-EBT/master/photo-good.jpg"
+  },
+  {
+  "id": 10,
+  "name": "Фотоаппарат мыльница",
+  "description": "Довольно-таки интересное описание товара в несколько строк. Довольно-таки интересное описание товара в несколько строк",
+  "price": 13100,
+  "urlImg": "https://raw.githubusercontent.com/AmVeronika/JSON-EBT/master/photo-good.jpg"
+  },
+  {
+  "id": 11,
+  "name": "Фотоаппарат беззеркальный",
+  "description": "Довольно-таки интересное описание товара в несколько строк. Довольно-таки интересное описание товара в несколько строк",
+  "price": 37600,
+  "urlImg": "https://raw.githubusercontent.com/AmVeronika/JSON-EBT/master/photo-good.jpg"
+  },
+  {
+  "id": 12,
+  "name": "Фотоаппарат цифровой",
+  "description": "Довольно-таки интересное описание товара в несколько строк. Довольно-таки интересное описание товара в несколько строк",
+  "price": 27650,
+  "urlImg": "https://raw.githubusercontent.com/AmVeronika/JSON-EBT/master/photo-good.jpg"
+  },
+  {
+  "id": 13,
+  "name": "Фотоаппарат цифровой дальномерный",
+  "description": "Довольно-таки интересное описание товара в несколько строк. Довольно-таки интересное описание товара в несколько строк",
+  "price": 39630,
+  "urlImg": "https://raw.githubusercontent.com/AmVeronika/JSON-EBT/master/photo-good.jpg"
+  },
+  {
+  "id": 14,
+  "name": "Фотоаппарат polaroid",
+  "description": "Довольно-таки интересное описание товара в несколько строк. Довольно-таки интересное описание товара в несколько строк",
+  "price": 6400,
+  "urlImg": "https://raw.githubusercontent.com/AmVeronika/JSON-EBT/master/photo-good.jpg"
+  },
+  {
+  "id": 15,
+  "name": "Фотоаппарат instax",
+  "description": "Довольно-таки интересное описание товара в несколько строк. Довольно-таки интересное описание товара в несколько строк",
+  "price": 6300,
+  "urlImg": "https://raw.githubusercontent.com/AmVeronika/JSON-EBT/master/photo-good.jpg"
+  }
 ]
