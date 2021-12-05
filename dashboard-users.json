@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "name": "Адилхан Аскаров",
+    "login": "_pilot_",
+    "passw": "password12345",
+    "position": "Frontend-разработчик",
+    "imgUrl": "assets/img/users/user-avatar0.png",
+    "currentTime": "01:10:07",
+    "totalTime": "01:12:05"
+  },
+  {
+    "id": 1,
+    "name": "Вероника Михотина",
+    "login": "am-veronika",
+    "passw": "Qwerty1234",
+    "position": "Frontend-разработчик",
+    "imgUrl": "assets/img/users/user-avatar1.png",
+    "currentTime": "18:12:05",
+    "totalTime": "88:12:05"
+  },
+  {
+    "id": 2,
+    "name": "Укропчик",
+    "login": "ukrop",
+    "passw": "password12345",
+    "position": "Frontend-разработчик",
+    "imgUrl": "assets/img/users/user-avatar0.png",
+    "currentTime": "00:12:03",
+    "totalTime": "00:12:05"
+  },
+  {
+    "id": 3,
+    "name": "Петрушка",
+    "login": "petrushka",
+    "passw": "Qwerty1234",
+    "position": "Frontend-разработчик",
+    "imgUrl": "assets/img/users/user-avatar1.png",
+    "currentTime": "10:12:03",
+    "totalTime": "100:12:05"
+  }
+]
